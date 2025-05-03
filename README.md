@@ -4,7 +4,7 @@ Submitted by: Truc Nghiem
 
 Sea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 25 hours spent in total
 
 ## Required Features
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[https://imgur.com/a/Ez8maNn](https://imgur.com/a/prework-gif-truc-nghiem-Ez8maNn)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://pouch.jumpshare.com/preview/cKrBK9nMJzqq2i84Uhi8x30zXGQEfdEcGF3EO5ntMGVcOPUIued0o86UCN_BlHZiw634KE35UuidwduxWoy8quMq7uD_Md9CzUUKhffu6yg' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICECAP  
