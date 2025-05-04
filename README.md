@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<a href="https://jmp.sh/s/0uL603E60cEjNY9iqRQ6">src="https://previews.jumpshare.com/gif/815bc01b796dd6f1733c957c5af194931878d93142da05d68b8691e26e2b6faae3c28b5bf6ddb837b664f2f8459a2d4b3bc4e3f5758c80a921e270576a50f8732cf3e0fba58d817ff92e1e62464b777a"></a>
+<img src="https://i.postimg.cc/4N1DKBBy/pre-Work-Gif.gif" alt="PreWorkGif">
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICECAP  
