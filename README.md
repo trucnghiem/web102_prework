@@ -38,7 +38,7 @@ I experienced some challenges with the logic and syntax throughout the prework. 
 
 ## License
 
-    Copyright [2025] [Truc Nghiem]
+    Copyright 2025 Truc Nghiem
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
