@@ -23,9 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<a href="https://postimg.cc/MvvPNbkJ" target="_blank">
-  <img src="https://i.postimg.cc/MvvPNbkJ/pre-Work-Gif.gif" alt="Prework GIF" width="600">
-</a>
+<a href='https://postimg.cc/MvvPNbkJ' target='_blank'><img src='https://i.postimg.cc/MvvPNbkJ/pre-Work-Gif.gif' border='0' alt='pre-Work-Gif'/></a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICECAP  
