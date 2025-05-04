@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe id="js_video_iframe" src="https://jumpshare.com/embed/0uL603E60cEjNY9iqRQ6" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<a href="https://jmp.sh/s/0uL603E60cEjNY9iqRQ6">src="https://previews.jumpshare.com/gif/815bc01b796dd6f1733c957c5af194931878d93142da05d68b8691e26e2b6faae3c28b5bf6ddb837b664f2f8459a2d4b3bc4e3f5758c80a921e270576a50f8732cf3e0fba58d817ff92e1e62464b777a"></a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICECAP  
