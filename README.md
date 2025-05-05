@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![](https://github.com/trucnghiem/web102_prework/blob/main/preWorkGif.gif)
+![](https://github.com/trucnghiem/web102_prework/blob/main/walkthroughgif.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICECAP  
