@@ -151,7 +151,9 @@ const displayStr =
     ${totalUnfunded} ${totalUnfunded === 1 ? 'game' : 'games'} remain unfunded. We need your help to fund these amazing games!`;
 
 // create a new DOM element containing the template string and append it to the description container
-descriptionContainer.innerHTML = `<p> ${displayStr} </p>`;
+const moreInfo = document.createElement('p');
+moreInfo.textContent = displayStr;
+descriptionContainer.appendChild(moreInfo);
 
 /************************************************************************************
  * Challenge 7: Select & display the top 2 games
